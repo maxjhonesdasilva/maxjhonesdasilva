@@ -1,7 +1,7 @@
 
 
 
-- 👋 Olá, eu sou Max Jhones de Souza Silva.
+- 👋 Hello, eu sou Max Jhones de Souza Silva.
 - 👀 Estou em busca de uma vaga de Desenvolvedor Junior, sou uma pessoa pró-ativa e sempre gostei de aprender coisas novas e pretendo me torna um Desenvelvedor Fullstack JavaScript.
 - 🌱 Atualmente estou aprendendo Java Scricpt e React e ja tenho conhecimento de HTML e CSS.
 
